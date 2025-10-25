@@ -26,4 +26,4 @@ jobs:
 
       - name: Run pandas script
         run: |
-          python Uber_Drives_2016.py
+          python assig1.ipynb
